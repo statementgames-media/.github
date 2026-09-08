@@ -1,0 +1,22 @@
+name: Improvement or bug
+description: Propose a focused change without confidential information.
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Outcome or problem
+      description: What should happen? What happens now?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and acceptance criteria
+      description: Include relevant steps and public-safe evidence.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public information only
+      options:
+        - label: This report contains no credentials or confidential client information.
+          required: true
