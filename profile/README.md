@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/statementgames-media/.github/main/profile/banner.png" alt="Statement Games Media — You give us the audience. We build the sports world around it." width="100%" />
+<img src="https://raw.githubusercontent.com/statementgames-media/.github/main/profile/banner.png?v=2026-09-10" alt="Statement Games Media — You give us the audience. We build the sports world around it." width="100%" />
 
 # Sports fans. Connected campaigns.
 
